@@ -1,0 +1,138 @@
+	PROP
+	{
+		name = RPMghostHUD
+		position = 0.2780965,0.8685295,-5.600869
+		rotation = 0,-5.210803E-15,0,1
+		scale = 1.375,1.375,1.375
+	}
+	PROP
+	{
+		name = RPMghostHUD
+		position = -0.2780977,0.8684312,-5.600873
+		rotation = 1.397621E-39,-4.37114E-08,-9.50369E-25,1
+		scale = 1.375001,1.375,1.375001
+	}
+
+
+
+
+
+
+	PROP
+	{
+		name = RPMghostHUD
+		position = 0.2780964,0.7334234,-0.9783872
+		rotation = 0,-5.210803E-15,0,1
+		scale = 1.375,1.375,1.375
+	}
+	PROP
+	{
+		name = RPMghostHUD2
+		position = -0.2780976,0.733325,-0.9783921
+		rotation = -1.397621E-39,-4.37114E-08,9.50369E-25,1
+		scale = 1.375001,1.375,1.375001
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = -0.3282482,0.3490548,-0.5794203
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.4950001,0.4950001,0.4950001
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = 0.3271675,0.3490522,-0.5794082
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = 0.4734141,0.3490513,-0.5794218
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = -0.08550684,0.3490529,-0.5794098
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.55,0.55,0.55
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = 0.08532386,0.349052,-0.5794094
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.5500001,0.5500001,0.5500001
+	}
+	PROP
+	{
+		name = RPMKerbinShuttleOrbiter
+		position = -0.4744759,0.3490515,-0.5794215
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+	PROP
+	{
+		name = RPMnavKSO
+		position = 0.2151077,0.3958,-0.5770444
+		rotation = 0,-1,0,-4.371139E-08
+		scale = 1,1,0.9999998
+	}
+	PROP
+	{
+		name = RPMnavKSO
+		position = -0.2151077,0.3958,-0.5770445
+		rotation = 0,-1,0,-4.371139E-08
+		scale = 1,1,1
+	}
+
+//// screen addition
+
+
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = -0.3282482,0.3490548,-0.5794203
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.4950001,0.4950001,0.4950001
+	}
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = 0.3271675,0.3490522,-0.5794082
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = 0.4734141,0.3490513,-0.5794218
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = -0.08550684,0.3490529,-0.5794098
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.55,0.55,0.55
+	}
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = 0.08532386,0.349052,-0.5794094
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.5500001,0.5500001,0.5500001
+	}
+	PROP
+	{
+		name = KSORPMSCREEN
+		position = -0.4744759,0.3490515,-0.5794215
+		rotation = 0,-1,0,-4.371141E-08
+		scale = 0.495,0.495,0.495
+	}
+////
+}
